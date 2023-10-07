@@ -11,3 +11,13 @@ Planejamento da iluminação, utilizar personagem básico no cenário para maner
 * Qual objetivo do jogador ?
 * Qual objetivo da fase ?
 * Pegue Referências
+
+
+## Escala de Prototipos
+
+   * Grey Box
+   * POC
+   * Apha
+   * One Pager
+   * Beta
+   * MVP
