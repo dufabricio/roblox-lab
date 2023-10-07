@@ -85,7 +85,7 @@ end
 
 # Enemy find nearest player and set target
 
-```
+```LUA
 function findNearestTorso(pos)
 	local list = game.Workspace:children()
 	local torso = nil
