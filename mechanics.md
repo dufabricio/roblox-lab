@@ -1,6 +1,6 @@
 # Block change color on jump
 
-```
+```LUA
 local iceblock = script.Parent
 
 local leftAnchor = iceblock.Parent.leftAnchor
@@ -31,7 +31,7 @@ end
 
 ## Enemy With Damage
 
-```
+```LUA
 local npc = script.Parent
 local hrpOfNPC = npc:WaitForChild("HumanoidRootPart")
 local plrsHit = {}
